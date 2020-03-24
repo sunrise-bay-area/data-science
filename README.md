@@ -17,12 +17,13 @@ Our mission is to use data to improve overall hub engagement through:
 * **Identifying Supporters:** locating our members vs supporters as well as active vs passive supporters in order to quantify our success threshold for active advocates
 * **Demographic Analysis:** understanding our membership representation in race, gender, income, etc. to improve event planning and better serve our frontline communities
 * **Communications:** improving click rate for emails as well as our event attendance  
-
-
-
-
+<!-- Original Text -->
 <!-- * Understanding membership demographics
 * Identifying active vs passive supports, members vs supporters (status, date joined, etc.)
 * Create target communications and improve event planning to better support members
 * Improving open/click rate for emails
 * Increasing attendance for events -->
+
+<!-- TODO: Add following titles -->
+<!-- ### Getting Started
+### View Progress-->
