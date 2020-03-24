@@ -16,7 +16,7 @@ In order for our hub to achieve this threshold, we only need 3.5% of the populat
 Our mission is to use data to improve overall hub engagement through:
 * **Identifying Supporters:** locating our members vs supporters as well as active vs passive supporters in order to quantify our success threshold for active advocates
 * **Demographic Analysis:** understanding our membership representation in race, gender, income, etc. to improve event planning and better serve our frontline communities
-* **Communications:** improving click rate for emails as well as our event attendance 
+* **Communications:** improving click rate for emails as well as our event attendance  
 
 
 
